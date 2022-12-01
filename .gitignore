@@ -9,3 +9,7 @@ out/
 
 # Dotenv file
 .env
+
+# echidna
+corpus
+crytic-export
