@@ -1,0 +1,3 @@
+testMode: assertion
+# You should ALWAYS set corpusDir to track coverage
+corpusDir: corpus
